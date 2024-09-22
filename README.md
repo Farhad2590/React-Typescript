@@ -2,13 +2,13 @@
 
 React + Typescript sample Project
 
-## Editing the app with MightyMeld
+## Editing the app
 
 1. Run `npm install` to install dependencies.
 
 2. Clone file from the [Farhad Github](https://github.com/Farhad2590/React-Typescript.git)
 
-## Running the app without MightyMeld
+## Running the app 
 
 1. Type `npm install` to install dependencies.
 
