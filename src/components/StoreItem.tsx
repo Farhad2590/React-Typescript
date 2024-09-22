@@ -10,7 +10,7 @@ type StoreItemProps = {
 }
 
 
-export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
+export function Storeitem({ id, name, price, imgUrl }: StoreItemProps) {
     const {
         getItemQuantity,
         increaseCartQuantity,
